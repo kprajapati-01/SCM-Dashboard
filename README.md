@@ -18,5 +18,6 @@
 * Focus on low performing regions
 * Improve supplier coordination
 
-4. Screenshots
+**4. Screenshots**
+
 ![Dashboard Preview](https://github.com/kprajapati-01/SCM-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
